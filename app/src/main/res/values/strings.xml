@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practica</string>
+    <string name="text1">nombre</string>
+    <string name="text2">Ingresar Nombre</string>
+    <string name="text3">Contraseña</string>
+    <string name="text4">Ingresar Contraseña</string>
+</resources>
